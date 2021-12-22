@@ -1,0 +1,11 @@
+import time
+from math import factorial
+ 
+lijst = []
+for n in range(10000):
+	begin = time.perf_counter()
+	factorial(50000)
+eind = time.perf_counter()
+lijst.append(eind-begin)
+ 
+print(sum(lijst)/1000)
