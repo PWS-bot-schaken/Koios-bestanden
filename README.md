@@ -1,2 +1,2 @@
 # Koios-bestanden
-De programmeer-bestanden die horen bij het schaakporgramma Koios.  
+De python-bestanden die horen bij het schaakporgramma Koios.  
